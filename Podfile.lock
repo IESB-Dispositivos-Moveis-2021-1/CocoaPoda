@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Cards (1.4.0):
+    - Player (= 0.13.0)
+  - Player (0.13.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - Cards (~> 1.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cards
+    - Player
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Cards: 45ae6bd0eca7b5e8016d3b6cb30b60b04753f68f
+  Player: 968d8d07d923bcdd6f7e4091c9e306eb44a5f7a4
+
+PODFILE CHECKSUM: f8ef352d069bcc04efcd830a33846572bfcc0680
+
+COCOAPODS: 1.11.2
